@@ -22,28 +22,6 @@ I also made the website responsive so that it can work properly on different scr
 
 I built the website step by step and tested the layout and functionality while making changes. I tried to use the concepts I had learned and improve the design as much as possible based on my current knowledge.
 
-## Final Output
-
-### Home Page
-
-![WboxGym Home Page](screenshots/home.png)
-
-### About US
-
-![WboxGym About Us](screenshots/about.png)
-
-### Membership Plans
-
-![WboxGym Membership Plans](screenshots/membership.png)
-
-### Reviews
-
-![WboxGym Reviews](screenshots/reviews.png)
-
-### Contact Section
-
-![WboxGym Contact Section](screenshots/contact.png)
-
 ## Features
 
 - Responsive design
