@@ -1,8 +1,3 @@
-<img width="960" height="600" alt="Reviews" src="https://github.com/user-attachments/assets/59da66b2-fa62-4a18-99da-1d16509f844e" />
-<img width="960" height="600" alt="Membership" src="https://github.com/user-attachments/assets/7ee3917e-ae21-4954-afd7-0e036469f5d3" />
-<img width="960" height="600" alt="Home-Page" src="https://github.com/user-attachments/assets/b8c92d69-45a2-4de0-b3e7-3d58f4a43e7b" />
-<img width="960" height="600" alt="Contact-Us" src="https://github.com/user-attachments/assets/0025456e-eede-48b6-a069-162db9345a0f" />
-<img width="960" height="600" alt="About-Us" src="https://github.com/user-attachments/assets/00e86834-4907-4682-9402-ae4b125960d6" />
 # TJ-Tasks-2026-Ayaan-Ahmad
 A responsive gym website I built while learning HTML, CSS and JavaScript and practicing frontend web development.
 
@@ -103,3 +98,8 @@ No installation or additional setup is required.
 ## Author
 
 Made by Ayaan Ahmad
+<img width="960" height="600" alt="Contact-Us" src="https://github.com/user-attachments/assets/5b63edb8-76a1-4578-ab3f-8a409ac8f53f" />
+<img width="960" height="600" alt="Reviews" src="https://github.com/user-attachments/assets/e4a34556-8aeb-4b0d-9a9b-3f23c1dd1fa1" />
+<img width="960" height="600" alt="Membership" src="https://github.com/user-attachments/assets/06f8e9c1-3975-49f5-acc9-c5ca0549e49c" />
+<img width="960" height="600" alt="About-Us" src="https://github.com/user-attachments/assets/3111a4ee-e8d5-4d22-909c-65e1a565b2f6" />
+<img width="960" height="600" alt="Home-Page" src="https://github.com/user-attachments/assets/d48197d3-4de1-494c-b056-415e1e6a3950" />
