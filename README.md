@@ -28,14 +28,6 @@ I started by planning the basic structure of the website and deciding what secti
 I also made the website responsive so that it can work properly on different screen sizes.
 I built the website step by step and tested the layout and functionality while making changes. I tried to use the concepts I had learned and improve the design as much as possible based on my current knowledge.
 
-## Final Output
-
-### Home Page
-### About Us
-### Membership Plans
-### Reviews
-### Contact Section
-
 ## Features
 - Responsive design
 - Home section
