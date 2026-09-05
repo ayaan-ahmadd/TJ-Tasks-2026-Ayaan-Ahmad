@@ -1,8 +1,9 @@
-<img width="960" height="600" alt="Reviews" src="https://github.com/user-attachments/assets/91c6a7f9-63c2-4fbf-8dc9-06af376b5089" />
-<img width="960" height="600" alt="Membership" src="https://github.com/user-attachments/assets/f5f33135-8a15-4285-8c5d-d35c563d959d" />
 <img width="960" height="600" alt="Home-Page" src="https://github.com/user-attachments/assets/c66d3106-3941-45fb-83ae-3bbadc5c2333" />
-<img width="960" height="600" alt="Contact-Us" src="https://github.com/user-attachments/assets/b64457f4-8b23-4d34-a5ec-607954b34890" />
 <img width="960" height="600" alt="About-Us" src="https://github.com/user-attachments/assets/34f38352-b7a4-4d71-9218-1110193a2ac9" />
+<img width="960" height="600" alt="Membership" src="https://github.com/user-attachments/assets/f5f33135-8a15-4285-8c5d-d35c563d959d" />
+<img width="960" height="600" alt="Reviews" src="https://github.com/user-attachments/assets/91c6a7f9-63c2-4fbf-8dc9-06af376b5089" />
+<img width="960" height="600" alt="Contact-Us" src="https://github.com/user-attachments/assets/b64457f4-8b23-4d34-a5ec-607954b34890" />
+
 # WboxGym
 A simple and responsive gym website made using HTML, CSS and JavaScript.
 
